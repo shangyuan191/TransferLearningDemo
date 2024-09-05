@@ -5,8 +5,8 @@ This workshop is designed to introduce you to the concept of transfer learning a
 ## Usage
 
 ```bash
-git clone https://github.com/LittleFish-Coder/transfer-learning-workshop.git
-cd transfer-learning-workshop
+git clone git@github.com:shangyuan191/TransferLearningDemo.git
+cd TransferLearningDemo
 ```
 
 ```bash
@@ -33,3 +33,7 @@ We will start by building a simple Convolutional Neural Network (CNN) from scrat
 ## Transfer Learning with VGG16
 
 We will then use a pre-trained model, VGG16 from PyTorch, to build a custom image classifier.
+
+## TODO
+
+Finished TODO parts at transfer_learning_resnet34.ipynb
